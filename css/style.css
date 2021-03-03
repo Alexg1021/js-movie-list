@@ -1,0 +1,6 @@
+.img-container {
+  height: 100px;
+}
+.img-container img {
+  height: 100%;
+}
